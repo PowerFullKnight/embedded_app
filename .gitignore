@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Code::blocks
+embedded_app.depend
+embedded_app.layout
